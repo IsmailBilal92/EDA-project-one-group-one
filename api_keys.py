@@ -1,0 +1,2 @@
+# BEA Web Service API Key
+BEA_api_key = "CED9A0BA-A0CE-4593-BEC8-8FD6623D9C05"
